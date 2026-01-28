@@ -21,10 +21,6 @@ The quiz currently assesses knowledge on:
 2.  **Accessibility:** Proper nesting and attributes for `label` elements.
 3.  **CSS Box Model:** Knowledge of the `margin` property and negative values.
 
-## 📸 Preview
-
-![Quiz Preview](image_8b96b3.png)
-
 ##  Installation
 
 1. Clone the repository:
