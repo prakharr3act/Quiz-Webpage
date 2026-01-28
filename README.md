@@ -21,8 +21,3 @@ The quiz currently assesses knowledge on:
 2.  **Accessibility:** Proper nesting and attributes for `label` elements.
 3.  **CSS Box Model:** Knowledge of the `margin` property and negative values.
 
-##  Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/prakharr3act/r3act-html-css-quiz.git](https://github.com/prakharr3ct/r3act-html-css-quiz.git)
