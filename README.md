@@ -2,7 +2,7 @@
 
 A clean, semantic, and accessible quiz application built to demonstrate core front-end development skills. This project features a structured "Student Info" section followed by technical questions using various HTML form elements.
 
-## 🚀 Features
+##  Features
 
 * **Semantic HTML5:** Uses proper form structures including `fieldset`, `legend`, and `label`.
 * **Diverse Input Types:** Includes text, email, date pickers, radio buttons, and dropdowns.
