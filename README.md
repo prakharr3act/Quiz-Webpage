@@ -25,7 +25,7 @@ The quiz currently assesses knowledge on:
 
 ![Quiz Preview](image_8b96b3.png)
 
-## 🔧 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
