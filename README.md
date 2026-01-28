@@ -25,4 +25,4 @@ The quiz currently assesses knowledge on:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/r3act-html-css-quiz.git](https://github.com/your-username/r3act-html-css-quiz.git)
+   git clone [https://github.com/prakharr3act/r3act-html-css-quiz.git](https://github.com/prakharr3ct/r3act-html-css-quiz.git)
