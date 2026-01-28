@@ -9,7 +9,7 @@ A clean, semantic, and accessible quiz application built to demonstrate core fro
 * **Responsive Layout:** Centralized design that adapts to different screen resolutions.
 * **Form Validation:** Built-in browser validation for email and required fields.
 
-## 🛠️ Built With
+##  Built With
 
 * **HTML5** - For the structure and accessibility.
 * **CSS3** - Custom styling for a professional, dark-themed header and clean UI.
