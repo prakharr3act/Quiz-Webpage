@@ -14,7 +14,7 @@ A clean, semantic, and accessible quiz application built to demonstrate core fro
 * **HTML5** - For the structure and accessibility.
 * **CSS3** - Custom styling for a professional, dark-themed header and clean UI.
 
-## 📝 Quiz Content
+##  Quiz Content
 
 The quiz currently assesses knowledge on:
 1.  **HTML Semantics:** Understanding the relationship between `fieldset` and `legend`.
